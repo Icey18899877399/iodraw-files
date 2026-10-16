@@ -3503,7 +3503,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1KymgJI79sMtVprZdnKE" name="第 2 页">
-    <mxGraphModel dx="663" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1693" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6199,7 +6199,7 @@
           <mxGeometry x="1017" y="291" width="75" height="29.3526" as="geometry" />
         </mxCell>
         <mxCell id="obj513" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;ml_core  公共接口与任务适配&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=26;fontColor=#273846;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="292" width="354.873" height="40.1667" as="geometry" />
+          <mxGeometry x="1130" y="307.92" width="354.873" height="40.1667" as="geometry" />
         </mxCell>
         <mxCell id="obj514" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;原数据单次训练&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=26;fontColor=#273846;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1099" y="365" width="183.75" height="40.1667" as="geometry" />
@@ -6253,7 +6253,7 @@
           <mxGeometry x="1018" y="752" width="75" height="29.3526" as="geometry" />
         </mxCell>
         <mxCell id="obj531" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;原协议驱动的独立实验执行&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=26;fontColor=#273846;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="753" width="315" height="40.1667" as="geometry" />
+          <mxGeometry x="1128.75" y="770.37" width="315" height="40.1667" as="geometry" />
         </mxCell>
         <mxCell id="obj532" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;OriginalJobManager&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=22;fontColor=#273846;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1083" y="831" width="210" height="34.2987" as="geometry" />
