@@ -6294,12 +6294,6 @@
         <mxCell id="obj543" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;统一返回：单次训练 → ExperimentResult；完整复现 → 状态、日志与产物&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=23;fontColor=#273846;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1008" y="1090" width="788.2031" height="35.5321" as="geometry" />
         </mxCell>
-        <mxCell id="obj544" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;本地数据与成果边界&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=30;fontColor=#273846;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="32" y="1190" width="270" height="46.3462" as="geometry" />
-        </mxCell>
-        <mxCell id="obj545" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;①—④ 对应上方读写位置&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=21;fontColor=#637584;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1928.125" y="1198" width="241.875" height="32.4423" as="geometry" />
-        </mxCell>
         <mxCell id="obj546" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;① 归档成果&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=27;fontColor=#477c9e;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="125" y="1257" width="142.5" height="41.7116" as="geometry" />
         </mxCell>
@@ -6347,12 +6341,6 @@
         </mxCell>
         <mxCell id="obj561" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;每次复现独立保存；支持历史查询&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=20;fontColor=#637584;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1686" y="1381" width="300" height="30.8975" as="geometry" />
-        </mxCell>
-        <mxCell id="obj562" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;扩展路径：算法实现 → ml_core 注册 / 适配 → 参数与图表描述；完整复现另接入原实验脚本&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=22;fontColor=#273846;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="32" y="1482" width="904.8926" height="33.9872" as="geometry" />
-        </mxCell>
-        <mxCell id="obj563" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;本机单后端进程部署  ·  图标：OpenMoji / CC BY-SA 4.0&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#637584;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1789.6973" y="1513" width="380.3027" height="23.1731" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
