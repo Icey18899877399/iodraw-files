@@ -3503,7 +3503,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1KymgJI79sMtVprZdnKE" name="第 2 页">
-    <mxGraphModel dx="1385" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1905" dy="1350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6072,20 +6072,8 @@
         <mxCell id="obj460" value="" style="shape=stencil(lZPRbsMgDEW/hlcEOCXkucv+gzV0QaMhIzTt/n4gZ1qJomx9M9e+5iAbAsep16Mhgg36Ygi8ECHazkb95rI4m1P0IWkpvmFWMKoAALUeNc4bWlUVR1FPY7JhZtbBYq+cmWLwH+Zmu7gY7dCbYGPOQkvgePbBvAd/HTo8jzpX5uji5wx0R5+kTboPm35tMRDxir7Pq+6yj28Yf7SaguSLeBcbhYvGD1TUSq5ucHZ4IGMl1KZjxZRqmIKSqaYSGiiROKMVl3XJxPZ7JwApDn/3Lqb6zHs5UKVU8/yrS+PeKMpKsTvuEu7/a3JyfjKPQgp+l+9sncPdXZWs9zVJ+J+g/QY=);fillColor=#f5f5ef;strokeColor=#477c9e;strokeWidth=1.8056;fillOpacity=100;strokeOpacity=100;comic=1;sketch=0;jiggle=0.35;" vertex="1" parent="1">
           <mxGeometry x="1929.5833" y="684.7769" width="20.8333" height="119.4441" as="geometry" />
         </mxCell>
-        <mxCell id="obj461" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;机器学习可视化平台&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=49;fontColor=#273846;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="31" y="24" width="438.75" height="75.6988" as="geometry" />
-        </mxCell>
-        <mxCell id="obj462" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;SYSTEM ARCHITECTURE&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=29;fontColor=#637584;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="35" width="356.25" height="45.212" as="geometry" />
-        </mxCell>
-        <mxCell id="obj463" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;交互式训练与完整实验复现，共享自研算法实现&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=26;fontColor=#637584;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="33" y="98" width="551.25" height="40.1667" as="geometry" />
-        </mxCell>
         <mxCell id="obj464" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;12&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=47;fontColor=#477c9e;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1360" y="31" width="57.5" height="73.2746" as="geometry" />
-        </mxCell>
-        <mxCell id="obj465" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;类自研算法&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontSize=24;fontColor=#273846;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="47" width="118.75" height="37.077" as="geometry" />
         </mxCell>
         <mxCell id="obj466" value="&lt;div style=&quot;line-height:1.45;white-space:nowrap;&quot;&gt;4&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=47;fontColor=#aa607b;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1640" y="31" width="28.75" height="73.2746" as="geometry" />
