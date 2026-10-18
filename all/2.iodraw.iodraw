@@ -4204,9 +4204,6 @@
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-788" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;after being closed since June 13. Why was it shut down?&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=21.4861;fontColor=#263541;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="205" y="107" width="609.5" height="23.1847" as="geometry" />
         </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-792" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Cache + links&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=15.1111;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1656" y="111" width="88" height="16.2474" as="geometry" />
-        </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-793" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Shared evidence state&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=18.6667;fontColor=#6e5b83;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="83" y="1047" width="203" height="20.0703" as="geometry" />
         </mxCell>
@@ -4236,9 +4233,6 @@
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-802" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;after evidence is revalidated.&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1539" y="1123" width="222" height="17.4062" as="geometry" />
-        </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-803" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Real question / excerpts: RealtimeQA #30. Candidate, provenance and update diagrams are illustrative. Corpus revision ≠ query time.&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=14.4444;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="26" y="1160" width="903" height="15.6719" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
