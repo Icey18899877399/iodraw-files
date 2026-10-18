@@ -391,7 +391,7 @@
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-507" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Shared cap&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#9c792d;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="838.1486" y="682" width="83.5" height="17.5" as="geometry" />
         </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-508" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Group budget&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16.3556;fontColor=#26323b;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="1HLAtCiXXgbbG9EIVCFM-508" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Group budget&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16.3556;fontColor=#26323b;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1013.1014" y="622" width="106" height="17.5854" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-509" value="Mixed: \(\displaystyle w^+=w^-=\kappa/2\)" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=center;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=12.5667;fontColor=#a95273;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
