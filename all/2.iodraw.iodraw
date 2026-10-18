@@ -167,7 +167,7 @@
           <mxGeometry x="57.6558" y="602" width="93.5" height="19.1146" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-243" value="&lt;div style=&quot;line-height: 1.2; white-space: nowrap; font-size: 20px;&quot;&gt;Candidate&lt;br&gt;closure claim&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=17.7778;fontColor=#263541;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="174.7464" y="511" width="109" height="38.7917" as="geometry" />
+          <mxGeometry x="170" y="511" width="113.75" height="38.79" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-244" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;schematic&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=14.4444;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="193.9384" y="476" width="68.5" height="15.5306" as="geometry" />
