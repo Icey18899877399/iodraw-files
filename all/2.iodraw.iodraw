@@ -349,7 +349,7 @@
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-493" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;d. Provenance &amp;amp; source grouping&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=19.5028;fontColor=#26323b;fontStyle=3;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="624.9275" y="251" width="307.5" height="21.0984" as="geometry" />
         </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-494" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Provenance links (schematic)&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="1HLAtCiXXgbbG9EIVCFM-494" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Provenance links&amp;nbsp;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="624.9275" y="287" width="214" height="17.4062" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-495" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Group A · common origin&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16.8889;fontColor=#a95273;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -716,7 +716,7 @@
           <mxGeometry x="890.65" y="342.16" width="58.84" height="58.84" as="geometry" />
         </mxCell>
         <mxCell id="8vsCHKvZCic__i4VEcQU-4" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;copy&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=14.4444;fontColor=#a95273;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="864.51" y="477" width="35.49" height="15.55" as="geometry" />
+          <mxGeometry x="854.51" y="387.85" width="35.49" height="15.55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
