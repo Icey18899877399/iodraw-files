@@ -632,7 +632,7 @@
           <mxGeometry x="752.7788" y="1108.3611" width="42.4432" height="15.2778" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-781" value="" style="shape=stencil(nZNNcsMgDIVPw5YxiGCyTt170JjUTIlxMXHS2xdGZBrcv7ReyU964gMEgd086MkQ3oz6aAg8EM673kb95LK4mH30IWkpPmNWCCrSh9qAGttQ3rYKNT1PyYWJRQeLrXJmjsG/mLPtY/HZcTDBxpyFjsDu4IN5Dv409vg/6VyZo6NfMs8FfQ32eytEVEnGUCL8EQ2vJ91nAyuEkkopi4199l04agAUgJc6/kN/Z8cboMpWMX4HBIoqpXhNBFSxraiJqvO+IrVUgtr+YwXGqNgo+H3T1ZXev2vWUMFk+/fLqIxXsGbF9GXzmumO0dg7P5tbIQUfk3awzuGgrkrWw5kkfDvQvQM=);fillColor=#ebf0f3;strokeColor=#34806d;strokeWidth=1.3889;fillOpacity=100;strokeOpacity=100;comic=1;sketch=0;jiggle=0.35;" parent="1" vertex="1">
-          <mxGeometry x="1052.7786" y="1108.3611" width="44.4444" height="15.2778" as="geometry" />
+          <mxGeometry x="1389.8386" y="1112.1911" width="44.4444" height="15.2778" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-782" value="" style="shape=stencil(dZHdDoMgDIWfhntDzbJ7596DaZ3NEAwwnW8/SPcjJN71nPO1aUFA40c1o5CVURMKuAgp256CuulkLtgF66IX65VTOJ9Yj6zrmqXyc4TZW5QjnpASH5x94Ep9+LSQGdFRSCm0AprBOrw7+zQ961klMlWTXdIaL+6reN7GSrIS8sqsJrNjf2tuWe8hXWf096gDXOYwFHCnrce9EYv/TQNpXYTlA0SLvwXaNw==);fillColor=#dceedc;strokeColor=none;strokeWidth=1.3889;fillOpacity=85;strokeOpacity=0;" parent="1" vertex="1">
           <mxGeometry x="1440" y="1095" width="310" height="44" as="geometry" />
@@ -662,7 +662,7 @@
           <mxGeometry x="567" y="1108" width="147" height="20.2615" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-799" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Frozen LLM&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=19.0222;fontColor=#263541;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="899" y="1108" width="107" height="20.4526" as="geometry" />
+          <mxGeometry x="1249.87" y="1108" width="107" height="20.4526" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-800" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Damage from flooding&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=24.7917;fontColor=#34806d;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1469.03" y="1104.72" width="200" height="26.83" as="geometry" />
