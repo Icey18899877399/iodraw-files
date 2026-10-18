@@ -352,8 +352,8 @@
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-494" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Provenance links&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="624.9275" y="287" width="214" height="17.4062" as="geometry" />
         </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-495" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Group A&amp;nbsp; &amp;nbsp;common origin&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16.8889;fontColor=#a95273;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="639.8951" y="306.16" width="206" height="18.1589" as="geometry" />
+        <mxCell id="1HLAtCiXXgbbG9EIVCFM-495" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Group A&amp;nbsp; &amp;nbsp;common origin&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16.8889;fontColor=#a95273;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="624.9250999999999" y="313.67" width="206" height="18.1589" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-496" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Flood report&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=15.4667;fontColor=#263541;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="713.9974000000001" y="387.84999999999997" width="92.5" height="16.6297" as="geometry" />
