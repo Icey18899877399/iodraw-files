@@ -4195,15 +4195,6 @@
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-782" value="" style="shape=stencil(dZHdDoMgDIWfhntDzbJ7596DaZ3NEAwwnW8/SPcjJN71nPO1aUFA40c1o5CVURMKuAgp256CuulkLtgF66IX65VTOJ9Yj6zrmqXyc4TZW5QjnpASH5x94Ep9+LSQGdFRSCm0AprBOrw7+zQ961klMlWTXdIaL+6reN7GSrIS8sqsJrNjf2tuWe8hXWf096gDXOYwFHCnrce9EYv/TQNpXYTlA0SLvwXaNw==);fillColor=#dceedc;strokeColor=none;strokeWidth=1.3889;fillOpacity=85;strokeOpacity=0;" vertex="1" parent="1">
           <mxGeometry x="1128" y="1095" width="386" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-783" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;AlignRAG&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=36;fontColor=#263541;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="14" width="158.5" height="38.793" as="geometry" />
-        </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-784" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Query-constrained fact alignment and incremental evidence maintenance&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=19.1722;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="27" width="644.5" height="20.834" as="geometry" />
-        </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-785" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;RealtimeQA · example 30&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=18.1333;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1557" y="30" width="213" height="19.5031" as="geometry" />
-        </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-786" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Query:&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=20.0889;fontColor=#397b9f;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="122" y="77" width="68" height="21.5995" as="geometry" />
         </mxCell>
@@ -4212,15 +4203,6 @@
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-788" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;after being closed since June 13. Why was it shut down?&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=21.4861;fontColor=#263541;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="205" y="107" width="609.5" height="23.1847" as="geometry" />
-        </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-789" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Retrieved evidence&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=18.4889;fontColor=#263541;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1418" y="88" width="169.5" height="19.8792" as="geometry" />
-        </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-790" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Prior state&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=18.4889;fontColor=#263541;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1656" y="88" width="97.5" height="19.8792" as="geometry" />
-        </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-791" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Passages + provenance&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=15.1111;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1418" y="111" width="155" height="16.5859" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-792" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Cache + links&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=15.1111;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1656" y="111" width="88" height="16.2474" as="geometry" />
