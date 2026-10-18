@@ -649,8 +649,8 @@
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-794" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Facts&amp;nbsp; source groups&amp;nbsp; judgments&amp;nbsp; quoted evidence&amp;nbsp; dependencies&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=17.0667;fontColor=#6e5b83;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="1048" width="1000" height="18.65" as="geometry" />
         </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-795" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Invalidate before inference  /  reuse valid state&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#6e5b83;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1393" y="1048" width="364" height="17.4062" as="geometry" />
+        <mxCell id="1HLAtCiXXgbbG9EIVCFM-795" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Invalidate before inference  /  reuse valid state&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#6e5b83;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="1048" width="487" height="17.41" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-796" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Valid evidence chains&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=19.0222;fontColor=#34806d;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="115" y="1098" width="194.5" height="20.4526" as="geometry" />
@@ -665,7 +665,7 @@
           <mxGeometry x="899" y="1108" width="107" height="20.4526" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-800" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Damage from flooding&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=24.7917;fontColor=#34806d;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1143" y="1104" width="357" height="26.83" as="geometry" />
+          <mxGeometry x="1190" y="1104" width="310" height="26.83" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-801" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Answer may stay the same&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1539" y="1101" width="199.5" height="17.5" as="geometry" />
