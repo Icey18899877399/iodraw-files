@@ -155,7 +155,7 @@
           <mxGeometry x="454.7609" y="363" width="97" height="17.3359" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-239" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Since June 13&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16.8889;fontColor=#26323b;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="431.3188" y="389" width="111" height="18.1589" as="geometry" />
+          <mxGeometry x="450" y="389" width="110" height="18.16" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-240" value="\(\displaystyle s_k=(o_k,a_k,\tau_k)\)" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=center;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16.3367;fontColor=#263541;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="252.308" y="414.7403" width="129.5" height="28.5194" as="geometry" />
