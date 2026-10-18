@@ -665,7 +665,7 @@
           <mxGeometry x="899" y="1108" width="107" height="20.4526" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-800" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Damage from flooding&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=24.7917;fontColor=#34806d;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1143" y="1104" width="265.5" height="26.8285" as="geometry" />
+          <mxGeometry x="1143" y="1104" width="357" height="26.83" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-801" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Answer may stay the same&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1539" y="1101" width="199.5" height="17.5" as="geometry" />
