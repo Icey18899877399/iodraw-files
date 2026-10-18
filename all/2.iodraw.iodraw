@@ -130,7 +130,7 @@
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-230" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;I&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=25.5;fontColor=#26323b;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="39.8696" y="188" width="14" height="27.4175" as="geometry" />
         </mxCell>
-        <mxCell id="1HLAtCiXXgbbG9EIVCFM-231" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Query-slot-constrained&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=20.825;fontColor=#26323b;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="1HLAtCiXXgbbG9EIVCFM-231" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Query-slot-constrained&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=20.825;fontColor=#26323b;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="92.7681" y="183" width="241" height="22.3909" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-232" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;bidirectional fact alignment&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=20.825;fontColor=#26323b;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -143,7 +143,7 @@
           <mxGeometry x="104.1051" y="363" width="53.5" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-235" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Yellowstone NP&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16.8889;fontColor=#26323b;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="58.913" y="389" width="121.5" height="18.1589" as="geometry" />
+          <mxGeometry x="70" y="389" width="130" height="18.16" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-236" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Attribute&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#667780;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280.558" y="363" width="73" height="17.4062" as="geometry" />
