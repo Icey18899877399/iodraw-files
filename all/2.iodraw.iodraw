@@ -4163,7 +4163,7 @@
           <mxGeometry x="24" y="1083" width="1752" height="72" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-772" value="" style="shape=stencil(lVPREoIgEPwa3hFyrOey/yClZEIxQKu/D+bM4hqd6e1ub4/dO0/C964RvSSMdqKVhB8IY2WtvDjpCI6y8sYGLMR3qGZFzgBoANjuIBWuD2zARmEVPBErzltzlXdV+6lFdY20yscqLwnfn42VF2uGroa8F5EZo9aM0ccD+nJ47wkZhYywI3C16r64WbEpVum3QdSRnuG5nlnS8GA/BJbYWTQw86dFbf518F7tx8I8E0sZCx7Shf2QkQG6rk6RNB4nlaaJNF7VujLafJ4K4w9ZaePkNxCCzwWdldZwgIiCjy5A8C/w8gU=);fillColor=#fefef9;strokeColor=#26323b;strokeWidth=1.25;fillOpacity=100;strokeOpacity=100;comic=1;sketch=0;jiggle=0.35;" vertex="1" parent="1">
-          <mxGeometry x="24" y="90" width="1752" height="70" as="geometry" />
+          <mxGeometry x="24" y="110" width="1752" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-773" value="" style="shape=stencil(lVPLEoMgDPwa7gg6Ts+t/Q9asDJFsYhW/74wsQ/SqTO9JZsNu4mR8P3QiF4RRjvRKsIPhLFKai9OJoKTOnvrAhbiO1SzsmAANADwHaRi6AMbsEk4DU/EyuCdvaq7ln5t0V2jnPaxyivC97V16uLs2EnIexGZMWrtFH3M0FfAewtkFDLCjsA1uvvgZmVebtJvo5CRnuG5lixpmNkXgSV2fhp48ddF5f86eK72beE1E0sZPzykC/siIwN0W50iaTxOKk0TabyqbWW0+SIVxh/ybOygPoEQvC+o1sbAASIKProAwb/Aqwc=);fillColor=#ece8f3;strokeColor=#a694b6;strokeWidth=1.0417;fillOpacity=100;strokeOpacity=100;comic=1;sketch=0;jiggle=0.35;" vertex="1" parent="1">
           <mxGeometry x="24" y="1036" width="1752" height="39" as="geometry" />
@@ -4196,7 +4196,7 @@
           <mxGeometry x="1128" y="1095" width="386" height="44" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-786" value="&lt;div style=&quot;line-height:1.2;white-space:nowrap;&quot;&gt;Query:&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=20.0889;fontColor=#397b9f;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="122" y="77" width="68" height="21.5995" as="geometry" />
+          <mxGeometry x="121.93" y="110" width="68" height="21.5995" as="geometry" />
         </mxCell>
         <mxCell id="1HLAtCiXXgbbG9EIVCFM-787" value="&lt;div style=&quot;line-height: 1.2; white-space: nowrap; font-size: 25px;&quot;&gt;Yellowstone National Park partially reopened to visitors Wednesday&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;after being closed since June 13. Why was it shut down?&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=nowrap;overflow=visible;align=left;verticalAlign=middle;spacing=0;fontFamily=Comic Sans MS;fontSize=21.4861;fontColor=#263541;fontStyle=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="214.06" y="120" width="2185" height="33" as="geometry" />
